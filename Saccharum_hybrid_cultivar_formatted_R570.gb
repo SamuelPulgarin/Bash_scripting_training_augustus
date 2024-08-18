@@ -1,0 +1,662 @@
+LOCUS       Chr10A                  5664 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Chr10A saccharum_hybrid_cultivar_R570.
+ACCESSION   Chr10A
+VERSION     Chr10A
+KEYWORDS    .
+SOURCE      0..5664
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(1..5664)
+                     /ID="SoffiXsponR570Ag000100"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="conserved hypothetical protein"
+                     /source="phytozomev13"
+     mRNA            complement(1..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /Dbxref="SwissProt:Q2RBS4"
+                     /Dbxref="InterPro:IPR029071"
+                     /Dbxref="InterPro:IPR004241"
+                     /Dbxref="SUPERFAMILY:SSF54236"
+                     /Dbxref="PANTHER:PTHR10969"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="conserved hypothetical protein"
+                     /Ontology_term="GO:0000421"
+                     /Ontology_term="GO:0031410"
+                     /Ontology_term="GO:0005874"
+                     /Ontology_term="GO:0006914"
+                     /Ontology_term="GO:0006995"
+                     /Ontology_term="GO:0015031"
+                     /longest="0"
+                     /pacid="56111648"
+                     /source="phytozomev13"
+     mRNA            complement(1..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /Dbxref="SwissProt:Q2RBS4"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="conserved hypothetical protein"
+                     /Ontology_term="GO:0000421"
+                     /Ontology_term="GO:0031410"
+                     /Ontology_term="GO:0005874"
+                     /Ontology_term="GO:0006914"
+                     /Ontology_term="GO:0006995"
+                     /Ontology_term="GO:0015031"
+                     /longest="0"
+                     /pacid="56111649"
+                     /source="phytozomev13"
+     mRNA            complement(1..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /Dbxref="SwissProt:Q2RBS4"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="conserved hypothetical protein"
+                     /Ontology_term="GO:0000421"
+                     /Ontology_term="GO:0031410"
+                     /Ontology_term="GO:0005874"
+                     /Ontology_term="GO:0006914"
+                     /Ontology_term="GO:0006995"
+                     /Ontology_term="GO:0015031"
+                     /longest="1"
+                     /pacid="56111647"
+                     /source="phytozomev13"
+     exon            complement(1..310)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(1..243)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(1..243)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(1..243)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(1..243)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(1..310)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     mRNA            complement(2..5663)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /Dbxref="SwissProt:Q2RBS4"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="conserved hypothetical protein"
+                     /Ontology_term="GO:0000421"
+                     /Ontology_term="GO:0031410"
+                     /Ontology_term="GO:0005874"
+                     /Ontology_term="GO:0006914"
+                     /Ontology_term="GO:0006995"
+                     /Ontology_term="GO:0015031"
+                     /longest="0"
+                     /pacid="56111650"
+                     /source="phytozomev13"
+     three_prime_UTR complement(2..310)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(2..310)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(545..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(545..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(545..565)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(545..565)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(545..565)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(545..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(545..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     three_prime_UTR complement(545..565)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(566..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="1"
+     CDS             complement(566..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="1"
+     CDS             complement(566..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="1"
+     CDS             complement(566..662)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="1"
+     CDS             complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(912..961)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(5360..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="2"
+     exon            complement(5360..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(5360..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5360..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="2"
+     exon            complement(5369..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5369..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="2"
+     exon            complement(5369..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5369..5424)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="2"
+     exon            complement(5513..5663)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     exon            complement(5513..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5513..5543)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(5513..5543)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(5513..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5513..5543)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(5513..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     CDS             complement(5513..5543)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+                     /phase="0"
+     five_prime_UTR  complement(5544..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     five_prime_UTR  complement(5544..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     five_prime_UTR  complement(5544..5663)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+     five_prime_UTR  complement(5544..5664)
+                     /Parent="SoffiXsponR570Ag000100"
+                     /source="phytozomev13"
+ORIGIN
+        1 ggacaaacgc acacaccatg cctctcaaaa gtcacacgag aatgataatg atatacgtac
+       61 ttcttttagt acatacataa atacagagta tagcacaata tgaatatata cagagttgac
+      121 aacatgcaca atgtttatac acagactaaa gacaacacat ttacacatgc agcatgggct
+      181 acctggcagc aaagcagaga aaatttctag agcacgccag gtcagccaaa tatcttctcg
+      241 ctgctgtagc acatgtaaag gaagccgtct ttgtccttgt ccgaatcata aacacttccc
+      301 atcaggctag ctgtgggaaa aaattgcatc atcactatca attcagctca acccatttct
+      361 acttacgcga aatgtctagt tttgaccttc tgcatcttaa agttctagct ctaaagcttt
+      421 ttacaatatt aatcctatcg taatgcaagc cgtaaccgat agacaaaatg tctaaagctt
+      481 cagcagggat cagagagtta tcaaaggaca gacagcatac tatattgatg aacaacaatc
+      541 tcacctgttt ggggcaaagt gttgtttaca aacacaaaga gagctgttcc tggagatagg
+      601 tgcagcctgg agcgtagtat gaaaatgaac tgcccaaccg gcatgtcaca ggaactaggt
+      661 acctgcacca taaacaaatt tatattgcta catttcaatt ttcaaaagag gtttttttta
+      721 aagggaatat attaatatcc cagcttctgc atcgactaat gcatatgtct ataattttca
+      781 aaagaggatg gtcaatgaag ttactgtaag acatacgtaa gtcacaagca gtatggaatc
+      841 aatgacaatg aaacacccag tccatctcta gtaatgtata atgggcacaa gagaacagag
+      901 taaaaactta cttcttctcc atttgtggta aattactcct tgaaaacctt tcaacaataa
+      961 cctgcaaata gaagctaata attcaggagt gccatgttca tcgagcgata gatgccaaac
+     1021 atatgtattg acggcatgag ggaaatgcag agtaaaacat aggtgataat ttaggtgtat
+     1081 ataatatatg atcagtttca gtgcagttgt tcagggtagc caaaaattta ttaatgattt
+     1141 agattagaat ttgcaacgta gactctcatg aatgaatgtg agaacccttg agcatcaaaa
+     1201 aattgatttg caggagcatg gtggacataa ctaaaaggag aggaactgat gtaatctgca
+     1261 caggtgattt ttttttattt ttaacacttg ttaaaaacta tttttaattt tagcatcgaa
+     1321 agtttttttt atatctaaca cttttggccg ctccccgcgc gagggagcgg caatgctgct
+     1381 gaggtggcag tggcgcaatt gtggcaaggg gctgctgctc ccccctggag aagcggcaag
+     1441 gctaccgctc cccagatcag ggagcggcag cggggcgcgc aggctgccgc tccccagatc
+     1501 aaggagcggt agcgggggtg ttgttttgta tcgcgcgaga ttagaggtcg ctgtgccgga
+     1561 tagaagaagc ccgatgcccc cccggtgtcg ctccttgatc tggggagcgg cagccttgcc
+     1621 gctccctaga tcaaggagcg gcagtggggg gtgtcttgtt tcacgcgagg tagagagcgt
+     1681 tgtctgtccg agaagaaagc cgacgccgcc cgcccgacgc acccccccgc cagccgcccc
+     1741 gcccccccac acccccgacg ccccaccccc cccccccccc cccgcgggca ccagcagcag
+     1801 ggccgccggc gatagcgccc cccccccccc cccccccccc cccccccccg cggcgcgccc
+     1861 ccgggcgtga gcagcaggca gcccccagcg agcaagtaat ttcgtttttt atgtattata
+     1921 atccttagtt acattagttt gtttagtatt gttagtataa gtagttagtt taattgttta
+     1981 gttggtatta ttagtaaagc tagcatagtt agtataaata ttataaatag ttattttagt
+     2041 tagtatgatt agtaaagtta gtatatgtat tataaatagt tagtatattt agtttagatt
+     2101 agtgaagtta atataggaga tataaatagt tacttaggta ttataaatag ttagaatagt
+     2161 tagtttgttt agtttagatt agtgaagtta gtataggtga tataaatagt tactttagtt
+     2221 agtttagtta gtatagtgta gttaataaac ttagtatagt tagtttgttt ggacgacttg
+     2281 atgaagtttg gtcgaatagt tttcagatgg aatgttgtgt ccgagtttat ttcggaggaa
+     2341 ttgttacgaa aaaagatggt gaatttgatg atatggaaga gttggaatgg tttgatgaac
+     2401 cgccgagctt caatgacctt tgtgtgtgtt tgaacacaaa gtttggtggt gatttcacaa
+     2461 tcaaggggag atttgatagt gggaagactc gggcaaaata tgtcctaatg cctttacgcg
+     2521 accctgctca ttggtcccgc tacactaggg tcttcacagg ctcgaactca cccattgctg
+     2581 aggtggttgt ggagaatggg tacaggttgg aggatggtca tcgtgacaat gttggaggtg
+     2641 acgaagaagc aattccattc acatccagtc agttgtatat ggatggtcag ttgacgcagg
+     2701 agcagttgca ttcacatcca gtcagttgta taagcaacga cttcgatgtg agggagttcg
+     2761 aacgtgaaga gcaggagcag gcggaagaga actagttcgg tcatgatgac catgacgatg
+     2821 atgacgacga cgacgatgat gatagagctg cccatgcgac gccggttcat gctacaacgt
+     2881 ctgatgtttc actttcggtg cttcatgcca tgccgactca gggcagggtg gtccatgatt
+     2941 tgccagaggg tggtttgctc agacggagca tgctttccag ttctgtaggc cagtggtcct
+     3001 tgttgatggc actttcttga tgggaaagta caggggtact ttgatgatgg ctgcagcggt
+     3061 tgatccggag gaccagatag taccaatggc tttttctttg gaagagggag agaataattc
+     3121 atcgtggtca tagttcatgc ggcttctacg tgcccaagtg cttggggtat cacgcactat
+     3181 atgtttgatt tcggatcggc acgcagggat tcttcacgcc gccggtgaag atatcgaaag
+     3241 gttcccatct ttggtgcata gatggtgcat gcatcatttt gtagctaatt tctagtaggg
+     3301 tcggaggaag aaggaggtta gtgacatggt taaggctcta tgttgtgtgc gtacaaagta
+     3361 ccagttcaag gagaaaatga gagaacaaga caaagtgatg aaccaagccg ccaagacatg
+     3421 gttacaggac cagatggaat agaaggaaaa gtgggcacta gcatacgatg agggtggatt
+     3481 caggtacggc atcatgagca ccaactcgtc cgagtctttc aactgtgtgc tcaccggagt
+     3541 tcgctcgttg ctagtgtctg ggattgttga gttctctttt atgaagtgca acgattattt
+     3601 tgtgaagagg tgttagctcg cgcagaggaa tataagggag gctggggtgt ggggaaaggc
+     3661 agccactcat tttactaagg agggagagga attggccaag cagcagattg gcgagccata
+     3721 cggacctcac aggcatatct acagtgtacg ggacttgggt ggcacaagca tgggcgggga
+     3781 gcgttacggt gggaggaact accgtgtcga tttagacaaa gttgagtgca gttataacgt
+     3841 cccttagatc atgcatgccc cttgctctca catgatcacg ggctgcagga tgcatggata
+     3901 taactacttg ctttgccata tatgtctcat ttgtacctcc gttcaaacac cgttcgggta
+     3961 tgggagaaga gcttcgagcc ttacctcgac ccgtcacagt agccctcata tcatggacct
+     4021 aactacgcac ccagtccgcc cctgcagaag ttgggcaagg gcagaaggaa gaagaagcgt
+     4081 ctcaagtggg atatggatgc tacgaaaggg tacggcgatg acatgtacgg agggggagac
+     4141 ttcaacaaga cacacgagag aaatttgtgc tcggtttgca agcaaccggg tcacaaggct
+     4201 agcaggcata gaagacctca ataacaggtc tgtccatatt attctgttaa gataacatat
+     4261 tatacttgtt cttatttgta ccgttatgtt ttattctacc atatgttttg tttagttttt
+     4321 aatattgttt gcactaactc tttttttttt aatctgaaac aggttgcagg aagctcctcc
+     4381 tccaatgtcg cacccgcagt acctcctcct tgacacagac agtcaagatc tgaggagcga
+     4441 ataaaaggtg tcctgcgctt gccgctcctt gatctgagga gcggcagccc cctaccacaa
+     4501 tttcgccact accaccttag cagcattgcc gctcctccac gtggggagcg gcaaagttga
+     4561 aatgccgctc cctcacgtgg ggagcggcca aaagtgttag atataaaaaa attcgatgct
+     4621 aaaattaaaa atagctttta aaaagtgtta aaaataaaaa aaatcgcaca tgccaattaa
+     4681 tagtccagca gaatataaac aaaatgatga aaccttgaat gagaaagact gggatagcgg
+     4741 actgagcgat agctcaggtg gtgaggctta aacggtcgct gcccaccggc cagggttcga
+     4801 accctgagtc ccgcaccaaa aaacccccct ccctgtgctc gtgggtactg tgcgtagcct
+     4861 gcgcccgtgc tacggtacac ccggccgggt gatctggacc acgtactcgt ttggcccctc
+     4921 agggcatggg ccaggcttcg ggtgggtttc tcggtcggac cgttcgcggt catcttcttc
+     4981 ctatgagaat accgtggggg cccgttcttc ccctacggcc gagttttttt tagaaagact
+     5041 gggatatctt ttttgagttc ctagctccga aaggctagaa ttatgtgagc aacaaaggaa
+     5101 ttctctgaat cctaaaatcc ggtgtgctgt ttggttctat caatatccac atatacgtga
+     5161 tgatgactga tatcgtgtag agggggatga atggaagtgg aaaaggagag cagtatcaac
+     5221 taattaagac tactaatagt atagtactag taataatcga ttagtgacgc gaacacgaag
+     5281 aagagaagaa gagtcaggct caggcctcag gcagaggcaa gcaagctagg acaggagaaa
+     5341 ggaaagcgaa tagagagact tgacatacgg ggatcctggc ggggtagtta gccatcatgg
+     5401 cggcggattc ctggagcctc tcatctgcac cccgacccca atcatgcatc atcacgaatt
+     5461 actcaattat taagtgaact gcagagttag atgtgaactg agagccactg accgaaggtg
+     5521 aattcttgct tgaagggctt catggcggat cagatcgaat cgtcgatcgc ttttgctacc
+     5581 gtccgtcaat gcaactcctc tccaatcggt tgccgctgcg ggaggaagaa gatgactgag
+     5641 gaagcgacgg tgaagcagta gctg
+//
+LOCUS       Chr8A                   9225 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Chr8A saccharum_hybrid_cultivar_R570.
+ACCESSION   Chr8A
+VERSION     Chr8A
+KEYWORDS    .
+SOURCE      0..9225
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(1..9225)
+                     /ID="SoffiXsponR570Ag000100"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="RING-CH-type domain-containing protein"
+                     /source="phytozomev13"
+     mRNA            complement(1..9225)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /Dbxref="TrEMBL:A0A4U6TXX8"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="RING-CH-type domain-containing protein"
+                     /Ontology_term="GO:0008270"
+                     /longest="1"
+                     /pacid="56168966"
+                     /source="phytozomev13"
+     exon            complement(1..953)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     three_prime_UTR complement(1..566)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     mRNA            complement(292..8986)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /Dbxref="TrEMBL:A0A4U6TXX8"
+                     /Dbxref="Gene3D:3"
+                     /Dbxref="KEGG:K10661"
+                     /Dbxref="InterPro:IPR011016"
+                     /Dbxref="InterPro:IPR013083"
+                     /Dbxref="Pfam:PF12906"
+                     /Name="SoffiXsponR570Ag000100"
+                     /Note="RING-CH-type domain-containing protein"
+                     /Ontology_term="GO:0008270"
+                     /longest="0"
+                     /pacid="56168967"
+                     /source="phytozomev13"
+     exon            complement(292..953)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     three_prime_UTR complement(292..566)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(567..953)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(567..953)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(1143..1289)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(1143..1289)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(1143..1289)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(1143..1289)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(1371..1534)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="2"
+     CDS             complement(1371..1534)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="2"
+     exon            complement(1371..1534)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(1371..1534)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(1630..1787)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="1"
+     exon            complement(1630..1787)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(1648..1787)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="1"
+     exon            complement(1648..1787)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(6689..6979)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="1"
+     exon            complement(6689..6979)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(6689..6979)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="1"
+     exon            complement(6689..6979)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(7087..7277)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(7087..7277)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(7087..7277)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(7087..7277)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(7379..7966)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(7379..7966)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(7379..7966)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(7379..7966)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(8128..8628)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(8128..8628)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     exon            complement(8128..8628)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(8128..8628)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(8738..8986)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     exon            complement(8738..9225)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     CDS             complement(8738..8956)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     CDS             complement(8738..8956)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+                     /phase="0"
+     five_prime_UTR  complement(8957..9225)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+     five_prime_UTR  complement(8957..8986)
+                     /Parent="SoffiXsponR570Ag000100_2"
+                     /source="phytozomev13"
+ORIGIN
+        1 gaaattcata cacagtaaaa ttcagggctc ttttaaggtg atgtaacttc tgttccatcg
+       61 atcacggttt gatgcagcct tctttgaaaa ctactctctc tgtccgcaaa agaatgcaat
+      121 tatagaaaca atcaaactaa ctcatgtttg aacaagttta tagtaaatag aattagcatt
+      181 tatggctcca aataaattta ttataaaaaa tatattctat aactaaccta atggtattta
+      241 ttttgtatta ttaatgttag tactttttta tataaattta gtcaaagttt aaactattta
+      301 acttctcgaa aagcgagaat tatatttttt tttggtggac agagagagta tttacaatgc
+      361 aagtttcgag gtgtgtcctc ccggaggcag ggagtacaac cacctggaca gactctcaca
+      421 cgcgcgcgca cacactctct ctccagtttc tgcactaatc actgctaata gcctaatacc
+      481 agtataccac ccactctgca gaatatctat tacactacat gtatatatct gaccctaacc
+      541 actgtttgac actaaagaaa cttgagctac atattgtcca cgtagttctg caacctctgc
+      601 ccgatgagat agcgctcatc cctgatagaa tcatggagtc tgacaacaaa cctggagagt
+      661 accttagcta gataacagag cgcgcacatg gcaaggctgc ccagccatgc aaaacgaagc
+      721 actacagagt tcacgtcagc agagtagccg aatcttggtg ccacgccttt cgcaagcacg
+      781 taaggaacac agagagcaga cagtagcttg acagtgattg gcatcaaaac atctcgcaag
+      841 acccacaatg ccctgagccc tgaaaaccca tcctcccttg cctgagttag cttccgatcc
+      901 cacctttcgt cgatgaaaca ggccaggaaa ggtgcgaccc ttgtccaacc aaccttcaga
+      961 tcagaaacaa taaaaccaaa gtagttgcat cgctcattag tgaacctggc tataacccaa
+     1021 ccaaataaca atatgtaaat tagctacaag ctaccgtaaa ggtggtcagg aaccagtttt
+     1081 gctgatccaa ctgtttcaaa ctaacaaggt caggaaagca acaaagaaaa gttgcagctc
+     1141 accaacttag tccagaattt cagcaattgc gaccccaaga accaagtgca gaagaaatcg
+     1201 agaactggaa cttcatcagc gggcaccacg aagggtaata tcagtagaca atcaaccaac
+     1261 aatccgatta gaaagggaat gacgacaacc tgacaacata tagaaagtca ctgagctgaa
+     1321 tcaaccagaa agcagaaaaa ctaataatga aaccacctca gataactcac ccataagaac
+     1381 aaaagcggag aactcttcaa agcagttata ccccaactgc agattataga tgacagaagg
+     1441 cgtgttctcc cagaggtcat ataagcaaag acatctctag aggcagcaat aatagtagac
+     1501 aagacgcaga atccgacagc aaaagcaaaa atatctgaag gaaaaaatgc acaagtaaag
+     1561 cccaaacaat ctaacatatg aacttaatcc acaatgtaga tctactgagc tttggtgaac
+     1621 aatcattacc attggatttc aaagcacctg ctactggcaa ctgagggatg gcaaataaca
+     1681 atgcacgtcc agctgagact ggagcaacaa gtaaagaagc aatgaacatg acaacagtaa
+     1741 gccacgctgg caccatgagt agtgccaatc gaacagcaag agatctcctg gtacattgtg
+     1801 ccaaaaaaag gggtaaatgt ccagaacaaa ctctgtgccc gactcctctt gatatgcaac
+     1861 atttgttgat caaataaagc gaatgaggag aacaaataaa caggagatta ggagaaaatt
+     1921 gcagatcaac tgactaacaa attaagacag agcatgacta ggagccaaac tgatggcctt
+     1981 ctctgtgcac ctgtgcgctg tgtgcctttg taaatcttgt gtaaaaaagc aatgttcaaa
+     2041 aaaacgtcat taatcgtcgt ttaagcgagt ttaaacgcta aactttgacc cagcgtctcg
+     2101 tttaaggggt aaacgtgcaa ttaaacgttg tgcgcgccta atcgctcgcc taaacacgca
+     2161 gcagcattta aacggcgctg aacggatgga aaacgcgttt aggcgggtgg gaaacgcgcg
+     2221 gctggcgggc gggaaagcac gcggcgcacg ggcgggagcg cgggaaaaaa agggcgcgcg
+     2281 ctggcgggcg cgtagaaaca gagcgggagc gcgggtaggc ggacgtgtga aagagcacac
+     2341 gggcccgagc aggagtggct ccgccaaaac agagagaggc acgggtttct cgccggctca
+     2401 cctaggccgc gcctcccgct tccgcggtgc ctcctgcctc gtgccctcgt cactcctcgc
+     2461 cgccgttgca aggggagccc cagctggagc cattgcagga gcagggtcgt cgacatctgg
+     2521 agtagcaggc cgcaggcgca ggcgcagggg tcgccgccgc cggcgcagcc gctcacttct
+     2581 tctcgcgttg tcgctgccac agccctaccc tgcttcacca cccccatccg tcctcgccat
+     2641 agcttcactc caggtgcttc ctcggtctct ccccatcttc ccatgctcat tctctgtaat
+     2701 tttgatttct gcatgtcaat cactcaattg atgaattgga ttggggattt agggttaaga
+     2761 ttgaatgtgt actgcctcag tagctcctta gtccttatga tgtgttgatc tgttggtcct
+     2821 tattatgcta ctcttgttct tggattggga ttaggatgtc gacttccgaa gctgcagctg
+     2881 ctgctggtac tgcagcagcg gctccagaag ccgccgaggt tgccaaccac ctaaagagga
+     2941 aatcatctga tataggctgg gagtgggggc gtctctgtga tcccaatgac aagaacaaag
+     3001 tcaagtgtct tctttgtggc catgagagtg caggaattaa tcgccttaag cagcatcttg
+     3061 ctcatagggg cacgtctatt gcgaagtgcc aaaaagttcc tgaggaagtt aagcaaaagt
+     3121 gcattaagaa tcttgatgaa atggcaaaga agaagaaaga taagcaccag catgataaag
+     3181 aggtcaggga gaatgtgcaa cttgcaatag gtgaagagga agtgacagaa gttgagtcac
+     3241 ttgctggaag ctcaagtacc cctcgcaagc taggacccat ggacaaattt acacgtccca
+     3301 ttgatcccaa gttaagcagt gctaaagcta agaggcagca gaacataaat gaagcacttt
+     3361 ggaaacaaag aactcaccaa gtgcagcaat atgttgctaa acgggtctat acacatggta
+     3421 tgttctgtac ttaagtaatt taccaatcct tattgctgca gccttcatcc ttattcgaat
+     3481 ccatgcatta ttagttgctg gaattttaat tttctgcacc aatctatttt gcagctattc
+     3541 cattcaatgc ttgtgataat gatgagttca aggaaatggt tgaagctatt ggtcaatttg
+     3601 gtcctggttt ccaacctcca actcagcatg attatcgggg tagattgttg gatgaggagt
+     3661 acgcaaaaac caagagcttg ctacaagacc gtgaagatga gaagattaag catggttgtt
+     3721 ccatcatgac tgatgcttgg acagatatga agagaagaag tattatgaac ctgtgcacaa
+     3781 atactagtga gggcacaaca tttgtcaagt ctgtggagat gtcagatgtg tcacacacta
+     3841 gtgaagttat ctatgagctc gttgacaagg caattgagga tgtaggtgct gaaaatatag
+     3901 tgcaaattgt gacagataat gcctctaaca acatgggagc aaaggcaaga ggccaaacat
+     3961 attttggact tcttgtgcaa ctcataccat caatctgatg ctgcaaggca ttggcgacct
+     4021 tgcaaaattc aagaagacaa ttgatctagt aaaatcattc actatctttg tctatggtca
+     4081 ccaccgaacc ttggcatgtt tgaggtcctt caccttgaag agagaaatca taaggccagg
+     4141 ggtaaccaga tttggtacag cctatcttac actgcaaagt atgatggaaa agaaggattg
+     4201 tctaaggaag atggtggttg actcaaagtg gtatgactta cctgaagcga agaccaaaaa
+     4261 gggcaaggat gctacagcca cggtgttgaa catacaattt tggagaaatg tgtccctttg
+     4321 tttgaaggtc tttgagccct tggtgaaagt tctacgtttg gttgatgggg atgtgaagcc
+     4381 atctatgggt tttgtgtatg gagaacttct caaggcaaag aaggagatca aggaggcatt
+     4441 tggaaatgtg gaaaagaact acagagatgt gatggctatt gttgacaaga tgatgaaaga
+     4501 taggcttgat tctccattac atgtggctgc atatatgctg aatccatact atagttacag
+     4561 caatccagca atctttaatg attcaactgt agtagaaaaa ttcatgcatt gtgtggagac
+     4621 cttttactgt ggtgatgatg ataagggata tagggctgtt aatgtggact tggaaatatt
+     4681 ccaaaagaga ctaggaaact tctcaaagaa gctggcaagg agctgcgaac gcttcgagtt
+     4741 caatccgggt aaccttttgc atcatttctg tccaaatttt tactgcaatt aattctgtcc
+     4801 agaattttct gcaatcaatt ttgcacatgt ttgagacatt tgacttcatt ttttagcatc
+     4861 ttggtgaagg ctttgtggag gtggagcacc agatttgcaa tatatggcta ttagaatcct
+     4921 ctcactgacc tctagctcat ctggatgtga aaggaattgg agcatctttg aacaggttag
+     4981 tttgtagtct ctactagttg ctctctattc ccaatttaat gtacatgtgc tgatgttgga
+     5041 attgtaattt ataatgtaca acatcataca aagagaagga ataggctgac aacagagcgc
+     5101 gtcaactctc tggtattcat ccaattcaat aataaattga tgtccaagaa ggagaaaatt
+     5161 aaaagaaaga gtaactatga agtgctccta agtagtgatg cttctgaagc tcaaggattt
+     5221 ttctttgagg gaggggatgc tcatgcattg gttgtcttta gggatgagga agatgagcta
+     5281 gaagaaatgc cggagacagg gataccatgg agtgtccttg gagaagcaat gggaactaat
+     5341 gaacagcttc aacctcgaag gagtacaaga gtggctagag aggtggatga agaagagtgg
+     5401 gaatctgatc ctgaagatcc tgactatcaa gatgatgaca ttgcctatga ggatgatgag
+     5461 gatgaagaag caattctaaa ttgcactgca tttgcggagt gaggactgag gagattgcat
+     5521 gatggcagca ggctgccaag ttatctaaat attaatatct acttatcttt aatttgtgtg
+     5581 tggaccataa gaccattatt gtgtgttgta ctatactgct atttaatttg tggaccatta
+     5641 aggcatgtga tgagctgtga ctgttgtgtg tatattttct tgtgatattt tgccttgtac
+     5701 tgctgccctg ttgtttggaa gcttggctgt acatggagtc atgtacaata ttgagcagaa
+     5761 ttgatgcctt gtgctgctgc cctgttgttt gctagatcaa ttttgccttg tgctgctgcc
+     5821 ctcatagatg agtttctatt ctttacctat tatttgagtt tttctgtttt cagattatta
+     5881 acttgtctct ctttgattgt tagctgctgt tcaatgcaag aaaccaagga ggaaaggaat
+     5941 tgatgtcgaa aacaagtgtg cagcaagagg tatgatcaat gttattactt caagttgtgt
+     6001 tattagtact gattttgctc tcaacatcac aaaaataaaa aacaaaaaaa acgtttaatc
+     6061 acgtttaatc tacgtttaaa cttcctgaac tctaaacctt aggctagcgc acgcctagcg
+     6121 tctaacgttt tttaaaacat tgtaaaaaag aaaacaggat gtgggccgtt ttgggccatt
+     6181 aataagaatc tggtggggaa cttctccccc cacccctccc ccggttgccc ctcaaaaaaa
+     6241 aatgatgacc ttgtgcaact ctatcagaca tgtctaagac tgacaaacaa aggctgacac
+     6301 aacactatgt caaagaccca cataggatta actaacactt taaacgggaa ttttctaatc
+     6361 tccagatcta aagaggcctt cacagcattg aatgactatc aaagagcaaa tatattcaag
+     6421 atgatgaggt gctctgctca cttgtgtttc ctactttcct tgtacactag ggtttagtat
+     6481 attaagattg agattgccaa atgaaatcca aataaaatta tgacatgact atttgcaaca
+     6541 taggaatgga aagttctttt cataaaaatg ttgcaaatta ggtaccttcc tttcaaccga
+     6601 atagacacct ttattgttca aaatcacaca tatgactaat ccagctctaa catgaatact
+     6661 actaattcaa tacaaacaga tggggtacct tttatcctta gcctcaacag gcttaccata
+     6721 ctgatctttt ggtgtgacac tattcccagc ttcagattca ccagcaccat caggttgggc
+     6781 agtcaataaa tcagacaaac caagagcctg tccggtactg gcaaaccaat accgcagtac
+     6841 cttcttcaca agcagaatag gctcaaggta ttcgagtgca ttgcagatta gaaacttcag
+     6901 aagaagaaaa ccagatagta actctgcata gtttcgtgtt ggttgccaaa gtaccgtgcc
+     6961 cgttggagga tcaaagtagc tgcaagttgc aaacatgaat taagataaaa ataagcaaat
+     7021 gacatgagat gacaaagact ggcaaatacc tcttgccacg ttgaaaaact agcatagaga
+     7081 acttacgtga tgtctagtgg gaacacggta ggtgccaaac ggaaagcaat ttcaacaggg
+     7141 acaagaatga ccatcgcaac atagataagg ctgagaagaa gaccaggcac aatcttgaaa
+     7201 aagaatttgt agaatggttc cccaatcttg atttggcctc cagtagtgtg gacaaaaggg
+     7261 gtacctagcc tcagcgccta gtgacacgca taacacacac atactgctgg ttagtttctg
+     7321 agacaagaaa acaacacaca tactcaaatg ctgaatcaag agctatagta cggcataccg
+     7381 ggcgaagaag actgggaagt aacgagtgca gcagcagaca gatacatcca ataagccagt
+     7441 gaagagcagt agaagcaaat gatgaagcaa atagaagttg gagcttctgg ggtatttcca
+     7501 caccaaacaa ttttgaagtg tagatatcaa gcgaccagcc aaagagcaaa ggccatatta
+     7561 caagaatcac tgtgagatta agagaaacat ttgctaaact tatgatcccc ctgaagaagt
+     7621 gctgcaagaa agtgcatgtc ctatcgagca ttacatgtat gttaggcagc atcttaagag
+     7681 ggctaaacag ccagcacacc aagtcaatta aggcatcgaa gtaaactgtg atggtaaggt
+     7741 gctcgcccct agagtattgc tggagagtat gccaggcagt agagagcaga gccgccacaa
+     7801 ggataagccc atatccaact aaaagcactg atattgttga agtggaggag tgggttatat
+     7861 ccagagtgcc agaggtgaaa cacgacatgc agcataatag tatccttccc agtgagaagg
+     7921 ggagaaaccc aagcagaaaa gcaaatgcca catcacctat taccacctga taatgagtta
+     7981 acagacatag acattattgt cagaagagag attaattaaa ttaaattaaa ttaaattaaa
+     8041 ctgcattttc tggaaggaaa acaagtagga gtactagtag cgaatactac gtactatatg
+     8101 tgataaataa aggagatcca accataccat cagggctgct tcgacggtgt gcagcgcaag
+     8161 gacctgcaag gtatccaagc ctccaaagcg gtgctgcagg tgagcttcga ggcgcgccac
+     8221 ccagagcgca aggggagcaa gggcatcagc agcgactctg gcaggggcgt tgagctgcct
+     8281 aaggttgggg agctctctga ggaaggctct tctgatggag acgcaggcaa ggacagtgtc
+     8341 cgtggagggc atgaacctca tggcgaaggg cctgaagaag gcggaggtgc ggagggagag
+     8401 gaggcggcgc acttgtgcgg aggtcctgga gagggcgagg cgccagaccc agagggtggt
+     8461 gagcggcatg atgaactccc agacgcagat ggcgaagagg agggagagga gcaggagcag
+     8521 ccaggacatg agcttgttgg tgacgccgag catgaactcg gggaggggca gcctggtggg
+     8581 agcgtttgcg gcgtagatgg gggcgatgga gatggagcgc ttgcacacct gaaaggcatt
+     8641 ggattggatt ggattggatt ggttcatcga tcgattcaat cccatcgcaa gcaaagcaat
+     8701 gttcgaagtg aaccgacgat gagcaacgca acctcacctc gcatctgggt gatgacgatg
+     8761 ccgagctgaa gccacgtcgc gaggacagcc atcggagcag gcagtcgtcg tggacgaacc
+     8821 tgatgcttcc gcggcaggcg caggggtggc gcagggggcg gcccgcctct gccgggaggt
+     8881 ggcagatgcg gcacgcgtcc tcgtcgtcgc cttccgcttc gccgggcagg agaggggcga
+     8941 tcgccgcgtc ggccatggtg acccagccgt accgttcccc actctcgggt gcctcatgga
+     9001 caggacaggg agggagtggg ccgtggcccg tgggcctgct agccggcccc ctttctggtt
+     9061 tcttgttttc caagaaagaa agaaaactga ctcttttccc tttttccaga aaaaaaaaat
+     9121 tttttgaacg tcaacagtga atcaattttc actttgagat acttcattag ctgtggattt
+     9181 tccacttatc tagaggacag tgagtgtcaa taggctttga aatac
+//

@@ -1,0 +1,96 @@
+Chr10A	phytozomev13	gene	220622	226285	.	-	.	ID=SoffiXsponR570Ag000100;Name=SoffiXsponR570Ag000100;Note=conserved hypothetical protein
+Chr10A	phytozomev13	mRNA	220622	226285	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=SwissProt:Q2RBS4,InterPro:IPR029071,InterPro:IPR004241,SUPERFAMILY:SSF54236,PANTHER:PTHR10969;Name=SoffiXsponR570Ag000100;Note=conserved hypothetical protein;Ontology_term=GO:0000421,GO:0031410,GO:0005874,GO:0006914,GO:0006995,GO:0015031;longest=0;pacid=56111648
+Chr10A	phytozomev13	mRNA	220622	226285	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=SwissProt:Q2RBS4;Name=SoffiXsponR570Ag000100;Note=conserved hypothetical protein;Ontology_term=GO:0000421,GO:0031410,GO:0005874,GO:0006914,GO:0006995,GO:0015031;longest=0;pacid=56111649
+Chr10A	phytozomev13	mRNA	220622	226285	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=SwissProt:Q2RBS4;Name=SoffiXsponR570Ag000100;Note=conserved hypothetical protein;Ontology_term=GO:0000421,GO:0031410,GO:0005874,GO:0006914,GO:0006995,GO:0015031;longest=1;pacid=56111647
+Chr10A	phytozomev13	exon	220622	220931	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	220622	220864	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	220622	220864	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	220622	220864	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	220622	220864	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	220622	220931	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	mRNA	220623	226284	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=SwissProt:Q2RBS4;Name=SoffiXsponR570Ag000100;Note=conserved hypothetical protein;Ontology_term=GO:0000421,GO:0031410,GO:0005874,GO:0006914,GO:0006995,GO:0015031;longest=0;pacid=56111650
+Chr10A	phytozomev13	three_prime_UTR	220623	220931	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	220623	220931	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221166	221283	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221166	221283	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	221166	221186	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	221166	221186	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	221166	221186	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221166	221283	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221166	221283	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	three_prime_UTR	221166	221186	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221187	221283	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221187	221283	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221187	221283	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221187	221283	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221533	221582	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221533	221582	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221533	221582	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221533	221582	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221533	221582	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221533	221582	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	221533	221582	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	221533	221582	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	225981	226045	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	225981	226045	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	225981	226045	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	225981	226045	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	225990	226045	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	225990	226045	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	225990	226045	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	225990	226045	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	226134	226284	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	226134	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	226134	226164	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	226134	226164	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	226134	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	226134	226164	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	exon	226134	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	CDS	226134	226164	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	five_prime_UTR	226165	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	five_prime_UTR	226165	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	five_prime_UTR	226165	226284	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr10A	phytozomev13	five_prime_UTR	226165	226285	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	gene	1159263	1168487	.	-	.	ID=SoffiXsponR570Ag000100;Name=SoffiXsponR570Ag000100;Note=RING-CH-type domain-containing protein
+Chr8A	phytozomev13	mRNA	1159263	1168487	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=TrEMBL:A0A4U6TXX8;Name=SoffiXsponR570Ag000100;Note=RING-CH-type domain-containing protein;Ontology_term=GO:0008270;longest=1;pacid=56168966
+Chr8A	phytozomev13	exon	1159263	1160215	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	three_prime_UTR	1159263	1159828	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	mRNA	1159554	1168248	.	-	.	ID=SoffiXsponR570Ag000100;Parent=SoffiXsponR570Ag000100;Dbxref=TrEMBL:A0A4U6TXX8,Gene3D:3,KEGG:K10661,InterPro:IPR011016,InterPro:IPR013083,Pfam:PF12906;Name=SoffiXsponR570Ag000100;Note=RING-CH-type domain-containing protein;Ontology_term=GO:0008270;longest=0;pacid=56168967
+Chr8A	phytozomev13	exon	1159554	1160215	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	three_prime_UTR	1159554	1159828	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1159829	1160215	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1159829	1160215	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160405	1160551	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160405	1160551	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160405	1160551	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160405	1160551	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160633	1160796	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160633	1160796	.	-	2	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160633	1160796	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160633	1160796	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160892	1161049	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160892	1161049	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1160910	1161049	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1160910	1161049	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1165951	1166241	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1165951	1166241	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1165951	1166241	.	-	1	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1165951	1166241	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1166349	1166539	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1166349	1166539	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1166349	1166539	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1166349	1166539	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1166641	1167228	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1166641	1167228	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1166641	1167228	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1166641	1167228	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1167390	1167890	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1167390	1167890	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1167390	1167890	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1167390	1167890	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1168000	1168248	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	exon	1168000	1168487	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1168000	1168218	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	CDS	1168000	1168218	.	-	0	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	five_prime_UTR	1168219	1168487	.	-	.	Parent=SoffiXsponR570Ag000100
+Chr8A	phytozomev13	five_prime_UTR	1168219	1168248	.	-	.	Parent=SoffiXsponR570Ag000100

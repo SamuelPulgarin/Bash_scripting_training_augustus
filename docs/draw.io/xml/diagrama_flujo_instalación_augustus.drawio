@@ -1,0 +1,317 @@
+<mxfile host="app.diagrams.net" modified="2024-06-13T18:29:28.937Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="1aKzJCxXfql6UqzblVtV" version="24.5.4" type="device">
+  <diagram name="Page-1" id="rz5FFpcyo0bH9CTDCXHa">
+    <mxGraphModel dx="2374" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-3" target="ggmUdBUsNwgSxNGCP9pr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Inicio&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-5" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-5" value="Entrar al directorio Augustus" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-6" target="ggmUdBUsNwgSxNGCP9pr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-6" value="&lt;b&gt;make augustus&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="470" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="625" />
+              <mxPoint x="640" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="625" />
+              <mxPoint x="640" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="625" />
+              <mxPoint x="640" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="625" />
+              <mxPoint x="640" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="625" />
+              <mxPoint x="640" y="1175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-7" target="ggmUdBUsNwgSxNGCP9pr-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-7" value="¿Error producido?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="485" y="580" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-9" target="ggmUdBUsNwgSxNGCP9pr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-9" value="ERROR: make[1]: g++: No such file or directory" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="590" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-10" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="625" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-10" value="&lt;b&gt;sudo apt install g++&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="590" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-14" target="ggmUdBUsNwgSxNGCP9pr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-14" value="ERROR: &lt;br&gt;&amp;nbsp;&amp;nbsp; 16 | #include &amp;lt;boost/archive/text_oarchive.hpp&amp;gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="700" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-15" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="735" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-15" value="&lt;b&gt;sudo apt install libboost-all-dev&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="700" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-16" target="ggmUdBUsNwgSxNGCP9pr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-16" value="ERROR:&lt;br&gt;&amp;nbsp;&amp;nbsp; 21 | #include &amp;lt;mysql++/mysql++.h&amp;gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="810" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-17" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="845" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-17" value="&lt;b&gt;sudo apt install libmysql++-dev&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="810" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-18" target="ggmUdBUsNwgSxNGCP9pr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-18" value="ERROR: &lt;br&gt;&amp;nbsp;&amp;nbsp; 13 | #include &amp;lt;sqlite3.h&amp;gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="920" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-19" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="955" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-19" value="&lt;div&gt;&lt;b&gt;sudo apt install libsqlite3-dev&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="920" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-20" target="ggmUdBUsNwgSxNGCP9pr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-20" value="ERROR: &lt;br&gt;&amp;nbsp;&amp;nbsp; 18 | #include &amp;lt;gsl/gsl_matrix.h&amp;gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1030" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-21" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1065" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-21" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; sudo apt install libgsl-dev&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="881" y="1030" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-22" target="ggmUdBUsNwgSxNGCP9pr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-22" value="ERROR: &lt;br&gt;&amp;nbsp;&amp;nbsp; 16 | #include &quot;lp_lib.h&quot;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1140" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-24" target="ggmUdBUsNwgSxNGCP9pr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-24" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1175" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-24" value="&lt;b&gt;sudo apt-get install liblpsolve55-dev&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="1140" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-25" target="ggmUdBUsNwgSxNGCP9pr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-25" target="ggmUdBUsNwgSxNGCP9pr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1365" />
+              <mxPoint x="1060" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-25" value="&lt;b&gt;&amp;nbsp;&amp;nbsp; sudo apt install lp-solve&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="1330" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-26" value="&lt;div&gt;Or&lt;/div&gt;" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="922.25" y="1230" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-27" target="ggmUdBUsNwgSxNGCP9pr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-27" value="&lt;b&gt;Repositorio:&lt;/b&gt;&quot;https://github.com/Gaius-Augustus/Augustus.git&quot;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-28" target="ggmUdBUsNwgSxNGCP9pr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-28" value="&lt;b&gt;git clone&lt;/b&gt; https://github.com/Gaius-Augustus/Augustus.git" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="250" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-50" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Si&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="588" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-59" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="588" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-62" target="ggmUdBUsNwgSxNGCP9pr-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368.75" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-62" value="&lt;div align=&quot;center&quot;&gt;¿Compilar utilidades adicionales?&lt;/div&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="293.75" y="700" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-64" target="ggmUdBUsNwgSxNGCP9pr-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-64" value="&lt;b&gt;bin/augustus&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="590" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-67" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Fin&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="150" y="715" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-69" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="254.5" y="709" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-72" target="ggmUdBUsNwgSxNGCP9pr-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-72" value="&lt;b&gt;make auxprogs&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="830" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-73" target="ggmUdBUsNwgSxNGCP9pr-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="985" />
+              <mxPoint x="480" y="1105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-73" target="ggmUdBUsNwgSxNGCP9pr-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="985" />
+              <mxPoint x="480" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-73" value="¿Error producido?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="293.75" y="940" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-75" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Si&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="372" y="787" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ggmUdBUsNwgSxNGCP9pr-77" source="ggmUdBUsNwgSxNGCP9pr-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293.25" y="985" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="985" />
+              <mxPoint x="270" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-77" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Fin&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="149.25" y="955" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-78" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="949" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-79" target="ggmUdBUsNwgSxNGCP9pr-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-79" value="&lt;div&gt;ERROR: &lt;br&gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp; 16 | #include &amp;lt;api/BamReader.h&amp;gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="1070" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-81" target="ggmUdBUsNwgSxNGCP9pr-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1105" />
+              <mxPoint x="80" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-81" value="&lt;b&gt;sudo apt install libbamtools-dev&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="106.75" y="1070" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-83" target="ggmUdBUsNwgSxNGCP9pr-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-83" value="ERROR: &lt;br&gt;&amp;nbsp;&amp;nbsp; 12 | #include &quot;bgzf.h&quot;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="1180" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ggmUdBUsNwgSxNGCP9pr-87" target="ggmUdBUsNwgSxNGCP9pr-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1215" />
+              <mxPoint x="80" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggmUdBUsNwgSxNGCP9pr-87" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; sudo apt install libhts-dev&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="106.75" y="1180" width="142.5" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
